@@ -1,0 +1,9 @@
+checkpoints/
+
+data/
+*.txt
+*.png
+
+one_step/
+
+.vscode/
